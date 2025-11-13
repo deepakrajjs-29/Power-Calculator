@@ -91,29 +91,12 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Login Screen
-*Secure authentication with modern glassmorphism design*
-
-### Room Configuration
-*Intuitive interface for adding rooms and appliances*
-
-### Bill Summary
-*Comprehensive breakdown with visual analytics*
-
-</div>
-
----
-
 ## 🚀 Demo
 
 ### Live Demo
-🔗 [Try PowerCalculator Now](#) *(Add your deployment link here)*
+🔗 [Try PowerCalculator Now](#) *(Deploy and add your link here)*
 
-
+---
 
 ## 📥 Installation
 
@@ -125,7 +108,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/powercalculator.git
+   git clone https://github.com/deepakrajjs-29/powercalculator.git
    cd powercalculator
    ```
 
@@ -235,12 +218,14 @@ const ratePerUnit = selectedState === "Your State" ? YourRate : 7.5;
 
 ### Customizing Login Credentials
 ```javascript
+// Modify the validCredentials array in the script section
 const validCredentials = [
-    { username: 'admin', password: 'admin123' },
-    // Add more users here
-    { username: 'user1', password: 'password1' },
+    { username: 'yourusername', password: 'yourpassword' },
+    // Add more users as needed
 ];
 ```
+
+> **Security Note**: For production use, implement proper backend authentication and never store passwords in plain text.
 
 ---
 
@@ -307,7 +292,7 @@ We love contributions! PowerCalculator is an open-source project and we welcome 
 
 ### Code of Conduct
 
-This project adheres to a Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [your-email@example.com].
+This project adheres to a Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [deepakraajja2909@gmail.com](mailto:deepakraajja2909@gmail.com).
 
 ---
 
@@ -341,9 +326,9 @@ This project adheres to a Code of Conduct. By participating, you are expected to
 ### Getting Help
 
 - 📖 **Documentation**: Check this README and inline code comments
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/powercalculator/issues)
-- 💬 **Discussions**: [Join the conversation](https://github.com/yourusername/powercalculator/discussions)
-- 📧 **Email**: your-email@example.com
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/deepakrajjs-29/powercalculator/issues)
+- 💬 **Discussions**: [Join the conversation](https://github.com/deepakrajjs-29/powercalculator/discussions)
+- 📧 **Email**: deepakraajja2909@gmail.com
 
 ### Frequently Asked Questions
 
@@ -368,7 +353,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 PowerCalculator Contributors
+Copyright (c) 2025 PowerCalculator Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -390,9 +375,9 @@ in the Software without restriction...
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/powercalculator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/powercalculator?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/powercalculator?style=social)
+![GitHub stars](https://img.shields.io/github/stars/deepakrajjs-29/powercalculator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/deepakrajjs-29/powercalculator?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/deepakrajjs-29/powercalculator?style=social)
 
 </div>
 
@@ -416,9 +401,8 @@ If you find PowerCalculator useful, please consider giving it a star! ⭐
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakrajjs-29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-raj-js-snsinstitutions/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakraajja2909@gmail.com)
 
 </div>
