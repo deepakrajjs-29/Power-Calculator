@@ -89,14 +89,7 @@
 - Kerala electricity rates
 - Easily extensible for other states
 
----
 
-## 🚀 Demo
-
-### Live Demo
-🔗 [Try PowerCalculator Now](#) *(Deploy and add your link here)*
-
----
 
 ## 📥 Installation
 
@@ -292,7 +285,7 @@ We love contributions! PowerCalculator is an open-source project and we welcome 
 
 ### Code of Conduct
 
-This project adheres to a Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [deepakraajja2909@gmail.com](mailto:deepakraajja2909@gmail.com).
+This project adheres to a Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [deepakrajjs2909@gmail.com](mailto:deepakrajjs2909@gmail.com).
 
 ---
 
@@ -326,9 +319,7 @@ This project adheres to a Code of Conduct. By participating, you are expected to
 ### Getting Help
 
 - 📖 **Documentation**: Check this README and inline code comments
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/deepakrajjs-29/powercalculator/issues)
-- 💬 **Discussions**: [Join the conversation](https://github.com/deepakrajjs-29/powercalculator/discussions)
-- 📧 **Email**: deepakraajja2909@gmail.com
+- 📧 **Email**: deepakrajjs2909@gmail.com
 
 ### Frequently Asked Questions
 
@@ -403,6 +394,6 @@ If you find PowerCalculator useful, please consider giving it a star! ⭐
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakrajjs-29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-raj-js-snsinstitutions/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakraajja2909@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakrajjs2909@gmail.com)
 
 </div>
