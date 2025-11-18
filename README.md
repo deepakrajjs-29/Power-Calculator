@@ -1,5 +1,5 @@
 # ⚡ PowerCalculator
-
+ 
 <div align="center">
 
 ![PowerCalculator Banner](https://img.shields.io/badge/PowerCalculator-Electricity%20Bill%20Manager-blue?style=for-the-badge&logo=lightning&logoColor=white)
@@ -380,7 +380,7 @@ If you find PowerCalculator useful, please consider giving it a star! ⭐
 
 <div align="center">
 
-**Made with ❤️ by the PowerCalculator Team**
+**Made with ❤️ by Ur frnd 😉 **
 
 [⬆ Back to Top](#-powercalculator)
 
