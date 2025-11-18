@@ -388,7 +388,7 @@ If you find PowerCalculator useful, please consider giving it a star! ⭐
 
 ---
 
-## 📞 Connect With Us
+## 📞 Connect Me 
 
 <div align="center">
 
